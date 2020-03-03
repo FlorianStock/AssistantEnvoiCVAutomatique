@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<setup mail="florian0stock@gmail.com" identifiant="florian0stock@gmail.com" selection-profil="0" mot-de-passe="claireperdu0" serveur-smtp="smtp.gmail.com" port="587">
+  <Profils content="Profils">
+    <Profil nom="Développeur" mail-contenu="Bonjour,&#xD;&#xA;&#xD;&#xA;Veuillez trouver ci joint ma candidature pour le poste de développeur.&#xD;&#xA;&#xD;&#xA;Cordialement,&#xD;&#xA;Florian Stock." sujet="Candidature">
+      <Fichier>C:\Users\flori\OneDrive\Bureau\C.V 2020.pdf</Fichier>
+      <Fichier>C:\Users\flori\OneDrive\Bureau\lettre de motivation.pdf</Fichier>
+    </Profil>
+  </Profils>
+</setup>

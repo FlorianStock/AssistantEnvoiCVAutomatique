@@ -1,0 +1,14 @@
+D:\Projets C#\Nouveau dossier\Assistant d'envoi de cv\Assistant d'envoi de cv\bin\Debug\Assistant d'envoi de cv.exe.config
+D:\Projets C#\Nouveau dossier\Assistant d'envoi de cv\Assistant d'envoi de cv\bin\Debug\Assistant d'envoi de cv.exe
+D:\Projets C#\Nouveau dossier\Assistant d'envoi de cv\Assistant d'envoi de cv\bin\Debug\Assistant d'envoi de cv.pdb
+D:\Projets C#\Nouveau dossier\Assistant d'envoi de cv\Assistant d'envoi de cv\obj\Debug\Assistant d'envoi de cv.csprojAssemblyReference.cache
+D:\Projets C#\Nouveau dossier\Assistant d'envoi de cv\Assistant d'envoi de cv\obj\Debug\Assistant_d_envoi_de_cv.Properties.Resources.resources
+D:\Projets C#\Nouveau dossier\Assistant d'envoi de cv\Assistant d'envoi de cv\obj\Debug\Assistant d'envoi de cv.csproj.GenerateResource.cache
+D:\Projets C#\Nouveau dossier\Assistant d'envoi de cv\Assistant d'envoi de cv\obj\Debug\Assistant d'envoi de cv.exe
+D:\Projets C#\Nouveau dossier\Assistant d'envoi de cv\Assistant d'envoi de cv\obj\Debug\Assistant d'envoi de cv.pdb
+D:\Projets C#\Nouveau dossier\Assistant d'envoi de cv\Assistant d'envoi de cv\obj\Debug\Assistant_d_envoi_de_cv.ParamsForm.resources
+D:\Projets C#\Nouveau dossier\Assistant d'envoi de cv\Assistant d'envoi de cv\obj\Debug\Assistant_d_envoi_de_cv.mailTo.resources
+D:\Projets C#\Nouveau dossier\Assistant d'envoi de cv\Assistant d'envoi de cv\bin\Debug\Assistant d'envoi de cv.exe.manifest
+D:\Projets C#\Nouveau dossier\Assistant d'envoi de cv\Assistant d'envoi de cv\bin\Debug\Assistant d'envoi de cv.application
+D:\Projets C#\Nouveau dossier\Assistant d'envoi de cv\Assistant d'envoi de cv\obj\Debug\Assistant d'envoi de cv.exe.manifest
+D:\Projets C#\Nouveau dossier\Assistant d'envoi de cv\Assistant d'envoi de cv\obj\Debug\Assistant d'envoi de cv.application

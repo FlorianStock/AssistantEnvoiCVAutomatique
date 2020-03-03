@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Assistant d'envoi de cv.exe" version="1.0.0.0" publicKeyToken="09b062e81adf0a37" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Assistant d'envoi de cv" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Assistant d'envoi de cv.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Options de manifeste UAC
+          Pour changer le niveau du contrôle de compte d'utilisateur Windows, remplacez le
+          nœud requestedExecutionLevel par l'une des propositions suivantes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Pour utiliser la virtualisation des fichiers et du Registre afin d'assurer
+         une compatibilité ascendante, supprimez le nœud requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Assistant d'envoi de cv.exe" size="24544">
+      <assemblyIdentity name="Assistant d'envoi de cv" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>rnJG+A/mGpOmfC3HEXKoiWzceYqLqBBnLal01xs1Jcs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Assistant d'envoi de cv.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-F7T9A7M\flori" issuerKeyHash="9edce2fbb752352389b72494da31d2588f3fef79" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>kMcwvHLcjOE+1s+v44ORvyxcNd9BQuvG9JLj7hVwjn4=</DigestValue></Reference></SignedInfo><SignatureValue>BFVEU1aMKijxwNDgNZq6KotSteEmQjBPD8VP8m2BOU1QjDXEGipv0i78TON0cVSAE1OnCdvhMho482XLH7yRIoIoV/CTqjMrHoGeYOzeFtEnQUkcCUkRVXjY9fWsX2alaOH+SHC7kDdpr910YZb7QOItfHZsoZFyQFAOoggCHxI=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>n2o50grS/cjyjBs6exqd+ZIwXX/5FOoLrMjwNdCtXR3tkrsDwACsKHKvag0DU32M6wUB0m2pWkPapNm7iu9PIa3wz/oYk8FDsGDB6ON1W44CwTnAZ+vr+4qVJGcS/niHExiWw4dulTIYsTgrpVTO1TUdhMFvdST151xbeIwMZsU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="7e8e7015eee392f4c6eb4241df355c2cbf9183e3afcfd63ee18cdc72bc30c790" Description="" Url=""><as:assemblyIdentity name="Assistant d'envoi de cv.exe" version="1.0.0.0" publicKeyToken="09b062e81adf0a37" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-F7T9A7M\flori</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>/Mc2jS2LkRBl2E/5FUrVaAy96hFJVxjVTshhhYh+2jI=</DigestValue></Reference></SignedInfo><SignatureValue>UYpItIJuqhLpeQtgdZ/3pst7ecWzSsm/Gq2CEwxAcl8D+5JMaGOdtbOA96RpjyoVvrnhnqSq5PIfU3S+oo1SjOavLPWLJujdFp7ucX6c98s1HWWN8e2u65QD0TMxVKDNSH+2ikEOBIYg0YeJoPkuL0ENFP72oIJ7rjz2/ycn1S4=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>n2o50grS/cjyjBs6exqd+ZIwXX/5FOoLrMjwNdCtXR3tkrsDwACsKHKvag0DU32M6wUB0m2pWkPapNm7iu9PIa3wz/oYk8FDsGDB6ON1W44CwTnAZ+vr+4qVJGcS/niHExiWw4dulTIYsTgrpVTO1TUdhMFvdST151xbeIwMZsU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQJMVO4z3Dt5ZLzpW3QUL8NjANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEYANwBUADkAQQA3AE0AXABmAGwAbwByAGkwHhcNMjAwMzAzMTQ0NjQ4WhcNMjEwMzAzMjA0NjQ4WjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEYANwBUADkAQQA3AE0AXABmAGwAbwByAGkwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAJ9qOdIK0v3I8owbOnsanfmSMF1/+RTqC6zI8DXQrV0d7ZK7A8AArChyr2oNA1N9jOsFAdJtqVpD2qTZu4rvTyGt8M/6GJPBQ7BgwejjdVuOAsE5wGfr6/uKlSRnEv54hxMYlsOHbpUyGLE4K6VUztU1HYTBb3Uk9edcW3iMDGbFAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAmYP+gXt5sy3SGt03ph/CFtkqm4cJrW/nID86jjJKZVFJ5oivNHoqKaoWXgUTqRqNgJIm05lby0YGFDKeqCGhcII2hk+Qu/9LUK5YrDQuG0RCvUfr84leIPSxEhkkmOzes9f2nPp9lOEm+H2uhNWOeDNjT2eM17nsyPni4Tx7Zh4=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
