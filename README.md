@@ -1,7 +1,5 @@
 # Assistant Envoi de CV automatique
 
-<h2>Envoi de CV automatique</h2>
-
 Language : C#NET
 
 
