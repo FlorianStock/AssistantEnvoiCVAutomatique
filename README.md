@@ -1,7 +1,6 @@
-# AssistantEnvoiCV
-# MyNews
+# Assistant Envoi de CV automatique
 
-<h2>Projet personnel 5 : Envoi de CV automatique</h2>
+<h2>Envoi de CV automatique</h2>
 
 Language : C#NET
 
